@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2018-02-27T10:04:57Z" finished-at="2018-02-27T10:04:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2018-02-27T10:04:57Z" finished-at="2018-02-27T10:04:57Z">
+      <class name="com.qa.test.testConcepts">
+        <test-method status="PASS" signature="ReverseStringSwap()[pri:0, instance:com.qa.test.testConcepts@4439f31e]" name="ReverseStringSwap" duration-ms="7" started-at="2018-02-27T15:34:57Z" finished-at="2018-02-27T15:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReverseStringSwap -->
+        <test-method status="PASS" signature="SeparateZerosFromNonZeros()[pri:0, instance:com.qa.test.testConcepts@4439f31e]" name="SeparateZerosFromNonZeros" duration-ms="2" started-at="2018-02-27T15:34:57Z" finished-at="2018-02-27T15:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeparateZerosFromNonZeros -->
+        <test-method status="PASS" signature="removeDuplicate()[pri:0, instance:com.qa.test.testConcepts@4439f31e]" name="removeDuplicate" duration-ms="1" started-at="2018-02-27T15:34:57Z" finished-at="2018-02-27T15:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDuplicate -->
+        <test-method status="PASS" signature="reverseString()[pri:0, instance:com.qa.test.testConcepts@4439f31e]" name="reverseString" duration-ms="1" started-at="2018-02-27T15:34:57Z" finished-at="2018-02-27T15:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverseString -->
+        <test-method status="PASS" signature="secondLargest()[pri:0, instance:com.qa.test.testConcepts@4439f31e]" name="secondLargest" duration-ms="2" started-at="2018-02-27T15:34:57Z" finished-at="2018-02-27T15:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondLargest -->
+        <test-method status="PASS" signature="sumofPair()[pri:0, instance:com.qa.test.testConcepts@4439f31e]" name="sumofPair" duration-ms="5" started-at="2018-02-27T15:34:57Z" finished-at="2018-02-27T15:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumofPair -->
+      </class> <!-- com.qa.test.testConcepts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
