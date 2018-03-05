@@ -50,5 +50,15 @@ public class testConcepts {
 		
 	}
 	
+	@Test
+	public void testPrint() {
+		
+		obj.testPrint();
+		
+	}
+	
+	
+	
+	
 
 }

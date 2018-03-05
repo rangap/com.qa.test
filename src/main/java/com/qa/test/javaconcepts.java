@@ -195,6 +195,12 @@ public class javaconcepts
 	}
 	
 	
+	public void testPrint()
+	{
+		System.out.print( "Welcome to Java Git Hub");
+	}
+	
+	
 	
 	
 }
