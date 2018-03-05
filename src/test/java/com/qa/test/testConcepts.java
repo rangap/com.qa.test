@@ -59,6 +59,15 @@ public class testConcepts {
 	
 	
 	
-	
+	@Test
+	public void StringPermutation() 
+	{
 
+	String str = "ABC";
+	int n = str.length();
+	
+	obj.permute(str, 0, n-1);
+
+	}
 }
+
