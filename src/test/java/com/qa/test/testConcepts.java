@@ -69,5 +69,15 @@ public class testConcepts {
 	obj.permute(str, 0, n-1);
 
 	}
+	
+	@Test
+	public void factorial() 
+	{
+
+	
+	obj.fact(5);
+
+	}
+	
 }
 
